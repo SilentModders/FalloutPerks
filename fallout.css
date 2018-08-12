@@ -2,16 +2,24 @@
 {
   font-size:150%;
 }
-.perkContainer
+.perkBlock
 {
-  width:100%;
+  width:200px;
+  height:425px;
   float:left;
   border-style:double;
 }
-.perkName
+.perkContainer
 {
-  text-align:center;
-  font-size:125%;
+  float:left;
+  border-style:double;
+  width:1854px;
+  margin-left:14px;
+}
+.perkID
+{
+  background:LightGray;
+  color:DarkGray;
 }
 .perkImage
 {
@@ -21,28 +29,14 @@
   max-width:190px;
   max-height:190px;
 }
-.perkBlock
+.perkName
 {
-  width:200px;
-  height:425px;
-  float:left;
-  border-style:double;
+  text-align:center;
+  font-size:125%;
 }
 .perkRanks
 {
   background:LightGray;
-}
-.perkID
-{
-  background:LightGray;
-  color:DarkGray;
-}
-.hiddenPerk
-{
-  float:left;
-  visibility:hidden;
-  width:0px;
-  height:0px;
 }
 .outputtext
 {

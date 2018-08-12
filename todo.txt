@@ -1,6 +1,7 @@
-Add Images
 Add Acqusition Field
-Change "purchased" feedback, stop moving them around.
 Add Fallout 3 Perks
 Add Some Sort of mod Support
-Support Fallout 4 perks?
+Support Fallout 4 perks
+  - Only the presentation supports this.
+Add Wiki Link?
+Clean up appearance
